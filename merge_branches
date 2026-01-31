@@ -1,0 +1,10 @@
+branch 'bug-fix-typo' set up to track 'origin/bug-fix-typo'.
+Switched to a new branch 'bug-fix-typo'
+Switched to branch 'main'
+Your branch is up to date with 'upstream/main'.
+Updating ad95b0a..2cb6997
+Fast-forward
+ README.md   | 2 +-
+ forked-repo | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 forked-repo
